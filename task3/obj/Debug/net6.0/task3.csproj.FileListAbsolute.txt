@@ -1,0 +1,15 @@
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\bin\Debug\net6.0\task3.exe
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\bin\Debug\net6.0\task3.deps.json
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\bin\Debug\net6.0\task3.dll
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\bin\Debug\net6.0\task3.pdb
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\obj\Debug\net6.0\task3.dll
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\obj\Debug\net6.0\refint\task3.dll
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\obj\Debug\net6.0\task3.pdb
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+C:\Users\bwene\OneDrive\Pulpit\Seminar_8_sh_d_r\task3\obj\Debug\net6.0\ref\task3.dll
